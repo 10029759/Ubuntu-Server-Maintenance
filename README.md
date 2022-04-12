@@ -16,16 +16,20 @@ https://medium.com/@JanFaessler/create-vhosts-for-multiple-local-urls-with-homeb
 Here are the Ubuntu commands to update all packages and reboot the server
 
 Get updated software list for Ubuntu, enter: 
+
 `sudo apt-get update`
 
 Update software(s) i.e. apply updates and patches on Ubuntu Linux
-`sudo apt-get upgrade
+
+`sudo apt-get upgrade`
 
 Install kernel updates on a Ubuntu LTS server
 
 Type the following apt-get command:
+
 `sudo apt-get dist-upgrade`
 
 If a new kernel installed, reboot the Linux server:
-sudo reboot
+
+`sudo reboot`
 
