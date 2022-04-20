@@ -1,6 +1,6 @@
 # Ubuntu Maintenance
 
-## dev-settings
+## Local Dev Settings
 This is going contain my core set used
 
 
