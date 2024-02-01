@@ -29,11 +29,11 @@ Install kernel updates on a Ubuntu LTS server
 
 Type the following apt-get command:
 
-`sudo apt-get dist-upgrade`
+~~`sudo apt-get dist-upgrade`~~
 
 Run this to remove an pack that is not logner required:
 
-`sudo apt autoremove`
+~~`sudo apt autoremove`~~
 
 If a new kernel installed, reboot the Linux server:
 
