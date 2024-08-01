@@ -35,6 +35,8 @@ Run this to remove an pack that is not logner required:
 
 ~~`sudo apt autoremove`~~
 
+Note: I found that sometimes the updated do not get applied. Therefore, I ran the above command to remove old packages. This seemed help. Not 100% sure what this command does.
+
 If a new kernel installed, reboot the Linux server:
 
 `sudo reboot`
